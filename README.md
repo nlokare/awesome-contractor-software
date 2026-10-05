@@ -43,7 +43,7 @@
 ## Learning & Training
 - [BuiltRight Academy](https://builtright-academy.vercel.app) - Free business guides, templates, and tools for tradespeople
 - [Contractor License Requirements by State](https://builtright-academy.vercel.app/licensing) - All 50 state licensing guides
-- [FieldServiceScout](https://www.fieldservicescout.com/) - Independent field-service software comparison for trade shops (Jobber, Housecall Pro, ServiceTitan peers)
+- [FieldServiceScout](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro) - Independent Jobber vs Housecall Pro field-service software comparison for trade shops (features + modeled true cost)
 
 ## Templates
 - [BuiltRight Academy Templates](https://builtright-academy.vercel.app/templates) - Free contractor invoice, estimate, and business templates
